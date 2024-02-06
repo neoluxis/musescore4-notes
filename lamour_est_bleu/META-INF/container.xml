@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container>
+  <rootfiles>
+    <rootfile full-path="score_style.mss"/>
+    <rootfile full-path="LAMOUR_EST_BLEU__LOVE_IS_BLUE.mscx"/>
+    <rootfile full-path="Excerpts/Piano, Classical Guitar/Piano, Classical Guitar.mss"/>
+    <rootfile full-path="Excerpts/Piano, Classical Guitar/Piano, Classical Guitar.mscx"/>
+    <rootfile full-path="Thumbnails/thumbnail.png"/>
+    <rootfile full-path="audiosettings.json"/>
+    <rootfile full-path="viewsettings.json"/>
+    <rootfile full-path="Excerpts/Piano, Classical Guitar/viewsettings.json"/>
+    </rootfiles>
+  </container>
